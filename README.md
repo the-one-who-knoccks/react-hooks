@@ -2,16 +2,22 @@
 
 #Tela da aplicação
 
-<img src="preview/prev01.png">
+<img src="
+react-hooks/preview/prev01.png">
 </br>
 
-<img src="preview/prev02.png">
+
+<img src="
+react-hooks/preview/prev02.png">
 </br>
 
-<img src="preview/prev03.png">
+
+<img src="
+react-hooks/preview/prev3.png">
 </br>
 
-<img src="preview/prev04.png">
+<img src="
+react-hooks/preview/prev04.png">
 </br>
 
 

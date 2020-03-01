@@ -6,17 +6,15 @@
 </br>
 
 
-<img src="
-react-hooks/Preview/prev02.png">
+<img src="/Preview/prev02.png">
 </br>
 
 
-<img src="
-react-hooks/Preview/prev3.png">
+
+<img src="/Preview/prev03.png">
 </br>
 
-<img src="
-react-hooks/Preview/prev04.png">
+<img src="/Preview/prev04.png">
 </br>
 
 

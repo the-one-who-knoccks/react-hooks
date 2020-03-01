@@ -3,21 +3,21 @@
 #Tela da aplicação
 
 <img src="
-react-hooks/preview/prev01.png">
+react-hooks/Preview/prev01.png">
 </br>
 
 
 <img src="
-react-hooks/preview/prev02.png">
+react-hooks/Preview/prev02.png">
 </br>
 
 
 <img src="
-react-hooks/preview/prev3.png">
+react-hooks/Preview/prev3.png">
 </br>
 
 <img src="
-react-hooks/preview/prev04.png">
+react-hooks/Preview/prev04.png">
 </br>
 
 

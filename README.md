@@ -2,7 +2,7 @@
 
 #Tela da aplicação
 
-<img src="blob/master/Preview/prev01.png">
+<img src="/Preview/prev01.png">
 </br>
 
 
